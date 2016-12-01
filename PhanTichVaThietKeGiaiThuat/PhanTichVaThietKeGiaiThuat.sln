@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BruteForce", "PhanTichVaThietKeGiaiThuat\BruteForce.csproj", "{C88F75C8-E749-492A-9419-856A1C38F6BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIBONACCI", "FIBONACCI\FIBONACCI.csproj", "{F8118AB5-6BC3-4240-8A04-0B89DDDD0EE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greedy", "Greedy\Greedy.csproj", "{90220186-8010-47F5-AD2F-A55886E443EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C88F75C8-E749-492A-9419-856A1C38F6BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C88F75C8-E749-492A-9419-856A1C38F6BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C88F75C8-E749-492A-9419-856A1C38F6BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C88F75C8-E749-492A-9419-856A1C38F6BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8118AB5-6BC3-4240-8A04-0B89DDDD0EE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8118AB5-6BC3-4240-8A04-0B89DDDD0EE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8118AB5-6BC3-4240-8A04-0B89DDDD0EE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8118AB5-6BC3-4240-8A04-0B89DDDD0EE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90220186-8010-47F5-AD2F-A55886E443EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90220186-8010-47F5-AD2F-A55886E443EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90220186-8010-47F5-AD2F-A55886E443EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90220186-8010-47F5-AD2F-A55886E443EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

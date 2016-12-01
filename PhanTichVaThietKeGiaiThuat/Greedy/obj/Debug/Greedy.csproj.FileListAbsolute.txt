@@ -1,0 +1,9 @@
+C:\Users\thanh\documents\visual studio 2015\Projects\PhanTichVaThietKeGiaiThuat\Greedy\bin\Debug\Greedy.exe.config
+C:\Users\thanh\documents\visual studio 2015\Projects\PhanTichVaThietKeGiaiThuat\Greedy\obj\Debug\Greedy.csprojResolveAssemblyReference.cache
+C:\Users\thanh\documents\visual studio 2015\Projects\PhanTichVaThietKeGiaiThuat\Greedy\obj\Debug\Greedy.Properties.Resources.resources
+C:\Users\thanh\documents\visual studio 2015\Projects\PhanTichVaThietKeGiaiThuat\Greedy\obj\Debug\Greedy.csproj.GenerateResource.Cache
+C:\Users\thanh\documents\visual studio 2015\Projects\PhanTichVaThietKeGiaiThuat\Greedy\bin\Debug\Greedy.exe
+C:\Users\thanh\documents\visual studio 2015\Projects\PhanTichVaThietKeGiaiThuat\Greedy\bin\Debug\Greedy.pdb
+C:\Users\thanh\documents\visual studio 2015\Projects\PhanTichVaThietKeGiaiThuat\Greedy\obj\Debug\Greedy.exe
+C:\Users\thanh\documents\visual studio 2015\Projects\PhanTichVaThietKeGiaiThuat\Greedy\obj\Debug\Greedy.pdb
+C:\Users\thanh\documents\visual studio 2015\Projects\PhanTichVaThietKeGiaiThuat\Greedy\obj\Debug\Greedy.GreedyColor.resources

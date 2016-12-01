@@ -1,0 +1,9 @@
+c:\users\thanh\documents\visual studio 2015\Projects\PhanTichVaThietKeGiaiThuat\FIBONACCI\bin\Debug\FIBONACCI.exe.config
+c:\users\thanh\documents\visual studio 2015\Projects\PhanTichVaThietKeGiaiThuat\FIBONACCI\bin\Debug\FIBONACCI.exe
+c:\users\thanh\documents\visual studio 2015\Projects\PhanTichVaThietKeGiaiThuat\FIBONACCI\bin\Debug\FIBONACCI.pdb
+c:\users\thanh\documents\visual studio 2015\Projects\PhanTichVaThietKeGiaiThuat\FIBONACCI\obj\Debug\FIBONACCI.csprojResolveAssemblyReference.cache
+c:\users\thanh\documents\visual studio 2015\Projects\PhanTichVaThietKeGiaiThuat\FIBONACCI\obj\Debug\FIBONACCI.Properties.Resources.resources
+c:\users\thanh\documents\visual studio 2015\Projects\PhanTichVaThietKeGiaiThuat\FIBONACCI\obj\Debug\FIBONACCI.csproj.GenerateResource.Cache
+c:\users\thanh\documents\visual studio 2015\Projects\PhanTichVaThietKeGiaiThuat\FIBONACCI\obj\Debug\FIBONACCI.exe
+c:\users\thanh\documents\visual studio 2015\Projects\PhanTichVaThietKeGiaiThuat\FIBONACCI\obj\Debug\FIBONACCI.pdb
+c:\users\thanh\documents\visual studio 2015\Projects\PhanTichVaThietKeGiaiThuat\FIBONACCI\obj\Debug\FIBONACCI.FIBONACCI.resources

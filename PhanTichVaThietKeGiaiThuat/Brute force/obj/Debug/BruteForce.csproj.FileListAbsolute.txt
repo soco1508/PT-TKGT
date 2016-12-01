@@ -1,0 +1,12 @@
+c:\users\thanh\documents\visual studio 2015\Projects\PhanTichVaThietKeGiaiThuat\PhanTichVaThietKeGiaiThuat\bin\Debug\PhanTichVaThietKeGiaiThuat.exe.config
+c:\users\thanh\documents\visual studio 2015\Projects\PhanTichVaThietKeGiaiThuat\PhanTichVaThietKeGiaiThuat\bin\Debug\PhanTichVaThietKeGiaiThuat.exe
+c:\users\thanh\documents\visual studio 2015\Projects\PhanTichVaThietKeGiaiThuat\PhanTichVaThietKeGiaiThuat\bin\Debug\PhanTichVaThietKeGiaiThuat.pdb
+c:\users\thanh\documents\visual studio 2015\Projects\PhanTichVaThietKeGiaiThuat\PhanTichVaThietKeGiaiThuat\obj\Debug\BruteForce.csprojResolveAssemblyReference.cache
+c:\users\thanh\documents\visual studio 2015\Projects\PhanTichVaThietKeGiaiThuat\PhanTichVaThietKeGiaiThuat\obj\Debug\PhanTichVaThietKeGiaiThuat.Properties.Resources.resources
+c:\users\thanh\documents\visual studio 2015\Projects\PhanTichVaThietKeGiaiThuat\PhanTichVaThietKeGiaiThuat\obj\Debug\BruteForce.csproj.GenerateResource.Cache
+c:\users\thanh\documents\visual studio 2015\Projects\PhanTichVaThietKeGiaiThuat\PhanTichVaThietKeGiaiThuat\obj\Debug\PhanTichVaThietKeGiaiThuat.exe
+c:\users\thanh\documents\visual studio 2015\Projects\PhanTichVaThietKeGiaiThuat\PhanTichVaThietKeGiaiThuat\obj\Debug\PhanTichVaThietKeGiaiThuat.pdb
+c:\users\thanh\documents\visual studio 2015\Projects\PhanTichVaThietKeGiaiThuat\PhanTichVaThietKeGiaiThuat\obj\Debug\PhanTichVaThietKeGiaiThuat.SapXepTrucTiepWIN.resources
+c:\users\thanh\documents\visual studio 2015\Projects\PhanTichVaThietKeGiaiThuat\PhanTichVaThietKeGiaiThuat\obj\Debug\PhanTichVaThietKeGiaiThuat.TinhTongWIN.resources
+c:\users\thanh\documents\visual studio 2015\Projects\PhanTichVaThietKeGiaiThuat\PhanTichVaThietKeGiaiThuat\obj\Debug\PhanTichVaThietKeGiaiThuat.SoTrungMauChuoiKyTu.resources
+c:\users\thanh\documents\visual studio 2015\Projects\PhanTichVaThietKeGiaiThuat\PhanTichVaThietKeGiaiThuat\obj\Debug\PhanTichVaThietKeGiaiThuat.TimCapDiemGanNhat.resources
